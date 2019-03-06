@@ -1,0 +1,34 @@
+body {
+   text-align:center;
+   font-family: 'Abril Fatface', cursive;
+   background-color: #66ffff;
+}
+
+button {
+    width: 170px;
+    height: 60px;
+}
+
+.tinkyWinky {
+    display: none;   
+    height: 190px;
+    width: 200px;
+}
+
+.po {
+    display: none;   
+    height: 190px;
+    width: 200px;
+}
+
+.dipsy {
+    display: none;   
+    height: 210px;
+    width: 250px;
+}
+
+.laalaa {
+    display: none;   
+    height: 190px;
+    width: 200px;
+}
